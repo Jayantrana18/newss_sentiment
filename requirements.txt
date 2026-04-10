@@ -1,0 +1,13 @@
+boto3
+pandas
+ yfinance
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+transformers
+torch
+streamlit
+python-dotenv
+pyspark
